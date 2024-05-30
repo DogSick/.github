@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">.
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Dogpamines&fontSize=90&fontColor=333333)
 
